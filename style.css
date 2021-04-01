@@ -1,0 +1,190 @@
+body, html {
+	height: 100%;
+	margin: 0;
+}
+h1{
+	text-align: center;
+	font-size: 30px;
+	color: black;
+	font-family: 'Gochi Hand', cursive;
+	margin: 10px 0px 10px;
+}
+
+h2{
+	text-align: center;
+	font-size: 45px;
+	color: black;
+	font-family: 'Gochi Hand', cursive;
+	margin: 10px 0px 10px;
+}
+
+
+img{
+	text-align: center; 
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	/* border:5px solid #021a40; */
+}
+
+
+button{
+  /*position: relative;*/
+  display: block;
+  cursor:pointer;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: none;
+  padding: 0px;
+}
+
+#comics{
+	padding:10px;
+	margin: 1px;
+}
+
+#time{
+	font-family: 'Gochi Hand', cursive;
+	font-size: 4em;
+	padding: 10px;
+	position: fixed;
+	display: block;
+	background-color: rgb(255,0,0,0.6);;
+}
+
+/*#text{
+	font-family: 'Bangers', cursive;
+	font-size: 35px;
+	position: fixed;
+	display: block;
+	background-color: rgb(255,0,0,0.6);
+
+}*/
+
+h3{
+	font-size: 40px;
+	font-family: 'Gochi Hand', cursive;
+	text-align: center;
+	color: black;
+}
+
+
+#bb{
+	color:black;
+    background-color: orange;
+    font-size:25px;
+    padding: 14px 20px;
+    /* position: absolute;
+    top: 45%;
+    left: 28%;
+    margin-left: -50px;  
+    margin-top: -25px;  */
+    cursor: pointer;
+	font-family: 'Gochi Hand', cursive;
+}
+
+
+#bb:hover {
+	background-color: rgb(0,128,0,0.6);
+}
+
+
+#button-one{
+	margin: 50px;
+	margin-left: auto;  
+	margin-right: auto;
+}
+
+#button-two{
+	margin: 120px;
+	margin-left: auto;  
+    margin-right: auto; 
+}
+
+#button-three{
+	margin: 120px;
+	margin-left: auto;  
+    margin-right: auto; 
+}
+
+#button-four{
+	margin: 120px;
+	margin-left: auto;  
+    margin-right: auto; 
+}
+
+#button-five{
+	margin: 120px;
+	margin-left: auto;  
+    margin-right: auto; 
+}
+
+#button-six{
+	margin: 120px;
+	margin-left: auto;  
+    margin-right: auto; 
+}
+
+#emo{
+	width: 2.5%;
+	border: none;
+	/* margin-left:    */
+    /* margin-top: -40px;  */
+}
+h4 {font-family: 'Gochi Hand', cursive;
+	text-align: center;	
+	font-size: 25px;
+	color: black;
+	margin: 10px 0px 10px 0px;
+}
+
+
+#texto{
+	font-family: 'Bangers', cursive;
+	font-size: 45px;
+	display: block;
+	background-color: rgb(255,0,0,0.6);;
+	text-align: center;
+}
+
+#texto1{
+	font-family: 'Bangers', cursive;
+	font-size: 45px;
+	display: block;
+	background-color: rgb(255,0,0,0.6);;
+	text-align: center;
+}
+
+#texto2{
+	font-family: 'Bangers', cursive;
+	font-size: 45px;
+	display: block;
+	background-color: rgb(255,0,0,0.6);;
+	text-align: center;
+}
+#texto3{
+	font-family: 'Bangers', cursive;
+	font-size: 45px;
+	display: block;
+	background-color: rgb(255,0,0,0.6);;
+	text-align: center;
+}
+#texto4{
+	font-family: 'Bangers', cursive;
+	font-size: 45px;
+	display: block;
+	background-color: rgb(255,0,0,0.6);;
+	text-align: center;
+}
+#texto5{
+	font-family: 'Bangers', cursive;
+	font-size: 45px;
+	display: block;
+	background-color: rgb(255,0,0,0.6);;
+	text-align: center;
+}
+
+
+
